@@ -9,7 +9,7 @@ header {
 	justify-content: space-between;
 	align-items: center;
 
-	background-color: red;
+	background-color: rgb(255, 0, 0);
 	font-size: 30px;
 	color: white;
 }
@@ -56,4 +56,5 @@ a {
 .feedImage {
 	max-width: 150px;
 	max-height: 150px;
+
 }
