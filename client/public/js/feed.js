@@ -12,14 +12,14 @@ let feedNumber1 = {
 let feedNumber2 = {
   Title: 'Chivas de Guadalajara',
   Body: 'Las Chivas win their second game of the season with a 3-1 win over Atletico de San Luis and now they are first in the league',
-  linkUrl: '',
+  linkUrl: 'https://www.foxsports.com/soccer/guadalajara-team-standings',
   imageUrl: '/images/chivas-min.png'
 }
 
 let feedNumber3 = {
   Title: 'Soccer Transfers',
   Body: 'Messi has been transfered to Inter Miami, and Mbappe does not wanna leave PSG so PSG is telling him that if he does not leave they are gonna sell his teamates',
-  linkUrl: '',
+  linkUrl: 'https://www.footballtransfers.com/en/transfer-news/us-united-states-mls/2023/07/lionel-messi-inter-miami-interview-airport-barcelona#:~:text=On%20Tuesday%2C%20Messi%20touched%20down,lucrative%20move%20to%20Saudi%20Arabia.&text=And%20Messi%20says%20he%20is%20happy%20with%20his%20decision.',
   imageUrl: '/images/messi.png'
 }
 
